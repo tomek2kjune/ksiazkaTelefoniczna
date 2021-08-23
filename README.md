@@ -6,3 +6,5 @@ Książka telefoniczna.
 - wyświetlanie listy kontaktów
 - sortowanie kontaktów
 - wyszukiwanie kontaktów
+
+*kontakty.csv to plik z przykładowymi kontaktami
